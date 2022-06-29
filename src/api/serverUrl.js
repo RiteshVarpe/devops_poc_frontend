@@ -1,1 +1,1 @@
-export default "https://btk8s5s0u6.execute-api.us-east-2.amazonaws.com/stage";
+export default process.env.REACT_APP_API_URL;

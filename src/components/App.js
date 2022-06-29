@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
-import CourseListContainer from './course/CourseListContainer'; // eslint-disable-line import/no-named-as-default
-import AddOrEditCourseContainer from './course/AddOrEditCourseContainer'; // eslint-disable-line import/no-named-as-default
+import CourseListContainer from './course/CourseListContainer';
+import AddOrEditCourseContainer from './course/AddOrEditCourseContainer';
 
 const App = () => {
     return (
