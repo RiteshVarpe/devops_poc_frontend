@@ -5,7 +5,6 @@ import CourseListContainer from './course/CourseListContainer'; // eslint-disabl
 import AddOrEditCourseContainer from './course/AddOrEditCourseContainer'; // eslint-disable-line import/no-named-as-default
 
 const App = () => {
-    console.log(process.env.REACT_APP_API_URL)
     return (
         <div >
             <Router>
