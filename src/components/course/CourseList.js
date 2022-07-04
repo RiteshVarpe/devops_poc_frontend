@@ -74,7 +74,7 @@ class CourseList extends React.Component {
                     caretRender={getCaret}
                     columnTitle
                 >
-                    length
+                    course-length
                 </TableHeaderColumn>
 
                 <TableHeaderColumn 
